@@ -4,7 +4,7 @@ https://en.wikipedia.org/wiki/Mastermind_(board_game)
 
 <h2>Preface</h2>
 
-This is the first assignment for writing Mastermind which was to be done in an iterative language. In this case FORTRAN.
+This is the first assignment for writing Mastermind which was to be done in an imperative paradigm. In this case the language FORTRAN was used.
 
 <h2>Problem Description</h2>
 
